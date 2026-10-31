@@ -1,0 +1,9 @@
+{"config": "guided24_d3", "tasks": 120, "task_score_mean": 0.0, "tasks_fully_solved": 0, "tasks_any_solved": 0, "tasks_with_fitting_program": 0, "mean_seconds_per_task": 6.48}
+{"config": "guided24_d3", "tasks": 300, "task_score_mean": 0.0967, "tasks_fully_solved": 29, "tasks_any_solved": 29, "tasks_with_fitting_program": 32, "mean_seconds_per_task": 4.84}
+{"config": "all_d2", "tasks": 120, "task_score_mean": 0.0, "tasks_fully_solved": 0, "tasks_any_solved": 0, "tasks_with_fitting_program": 0, "mean_seconds_per_task": 11.42}
+{"config": "all_d2", "tasks": 300, "task_score_mean": 0.1333, "tasks_fully_solved": 40, "tasks_any_solved": 40, "tasks_with_fitting_program": 44, "mean_seconds_per_task": 8.22}
+{"config": "random24_d3", "tasks": 120, "task_score_mean": 0.0, "tasks_fully_solved": 0, "tasks_any_solved": 0, "tasks_with_fitting_program": 0, "mean_seconds_per_task": 3.47}
+{"config": "random24_d3", "tasks": 300, "task_score_mean": 0.03, "tasks_fully_solved": 9, "tasks_any_solved": 9, "tasks_with_fitting_program": 11, "mean_seconds_per_task": 2.62}
+{"config": "guided32_d3", "tasks": 120, "task_score_mean": 0.0, "tasks_fully_solved": 0, "tasks_any_solved": 0, "tasks_with_fitting_program": 0, "mean_seconds_per_task": 14.62}
+{"config": "guided32_d3", "tasks": 300, "task_score_mean": 0.1133, "tasks_fully_solved": 34, "tasks_any_solved": 34, "tasks_with_fitting_program": 38, "mean_seconds_per_task": 10.8}
+DONE

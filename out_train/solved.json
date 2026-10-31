@@ -1,0 +1,722 @@
+{
+ "0c786b71": [
+  {
+   "prog": [
+    "rot180",
+    "mirror_4"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "0c9aba6e": [
+  {
+   "prog": [
+    "overlay_v"
+   ],
+   "cost": 1.75
+  }
+ ],
+ "0d3d703e": [
+  {
+   "prog": [],
+   "cost": 2.0
+  }
+ ],
+ "1a2e2828": [
+  {
+   "prog": [
+    "rare_color"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "1c786137": [
+  {
+   "prog": [
+    "crop_largest_bycolor",
+    "crop_nonbg"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "1cf80156": [
+  {
+   "prog": [
+    "crop_nonbg"
+   ],
+   "cost": 1.0
+  },
+  {
+   "prog": [
+    "crop_nonbg",
+    "dedupe"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "1e0a9b12": [
+  {
+   "prog": [
+    "gravity_down"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "1f85a75f": [
+  {
+   "prog": [
+    "crop_largest"
+   ],
+   "cost": 1.0
+  },
+  {
+   "prog": [
+    "crop_largest_bycolor"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "23b5c85d": [
+  {
+   "prog": [
+    "crop_smallest_bycolor"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "2dc579da": [
+  {
+   "prog": [
+    "overlay_h",
+    "overlay_v"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "3906de3d": [
+  {
+   "prog": [
+    "gravity_up"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "3af2c5a8": [
+  {
+   "prog": [
+    "mirror_4"
+   ],
+   "cost": 1.0
+  },
+  {
+   "prog": [
+    "keep_largest_obj",
+    "mirror_4"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "3c9b0459": [
+  {
+   "prog": [
+    "rot180"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "42a50994": [
+  {
+   "prog": [
+    "remove_noise"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "4347f46a": [
+  {
+   "prog": [
+    "outline"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "445eab21": [
+  {
+   "prog": [
+    "common_color",
+    "up2"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "44f52bb0": [
+  {
+   "prog": [
+    "gravity_left",
+    "down3"
+   ],
+   "cost": 2.5
+  },
+  {
+   "prog": [
+    "extend_h",
+    "common_color"
+   ],
+   "cost": 2.5
+  }
+ ],
+ "48d8fb45": [
+  {
+   "prog": [
+    "keep_largest_obj",
+    "crop_largest_bycolor"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "496994bd": [
+  {
+   "prog": [
+    "symmetrize_ud"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "4c4377d9": [
+  {
+   "prog": [
+    "flipud",
+    "mirror_v"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "506d28a5": [
+  {
+   "prog": [
+    "overlay_v"
+   ],
+   "cost": 1.5
+  },
+  {
+   "prog": [
+    "keep_largest_obj",
+    "overlay_v"
+   ],
+   "cost": 2.5
+  }
+ ],
+ "5614dbcf": [
+  {
+   "prog": [
+    "down3"
+   ],
+   "cost": 1.25
+  },
+  {
+   "prog": [
+    "down3",
+    "symmetrize_lr"
+   ],
+   "cost": 2.25
+  }
+ ],
+ "60c09cac": [
+  {
+   "prog": [
+    "up2"
+   ],
+   "cost": 1.0
+  },
+  {
+   "prog": [
+    "up2",
+    "outline"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "6150a2bd": [
+  {
+   "prog": [
+    "rot180"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "62c24649": [
+  {
+   "prog": [
+    "mirror_4"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "642d658d": [
+  {
+   "prog": [
+    "extend_v",
+    "common_color"
+   ],
+   "cost": 2.5
+  },
+  {
+   "prog": [
+    "crop_largest_bycolor",
+    "common_color"
+   ],
+   "cost": 2.75
+  }
+ ],
+ "6430c8c4": [
+  {
+   "prog": [
+    "overlay_v"
+   ],
+   "cost": 1.75
+  }
+ ],
+ "66f2d22f": [
+  {
+   "prog": [
+    "overlay_h"
+   ],
+   "cost": 1.75
+  },
+  {
+   "prog": [
+    "overlay_h",
+    "keep_largest_obj"
+   ],
+   "cost": 2.75
+  }
+ ],
+ "67a3c6ac": [
+  {
+   "prog": [
+    "fliplr"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "67e8384a": [
+  {
+   "prog": [
+    "mirror_4"
+   ],
+   "cost": 1.0
+  },
+  {
+   "prog": [
+    "dedupe",
+    "mirror_4"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "68b16354": [
+  {
+   "prog": [
+    "flipud"
+   ],
+   "cost": 1.0
+  },
+  {
+   "prog": [
+    "flipud",
+    "crop_smallest"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "68b67ca3": [
+  {
+   "prog": [
+    "down2"
+   ],
+   "cost": 1.0
+  },
+  {
+   "prog": [
+    "down2",
+    "dedupe"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "6d0aefbc": [
+  {
+   "prog": [
+    "mirror_h"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "6fa7a44f": [
+  {
+   "prog": [
+    "mirror_v"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "7468f01a": [
+  {
+   "prog": [
+    "fliplr",
+    "crop_nonbg"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "746b3537": [
+  {
+   "prog": [
+    "dedupe"
+   ],
+   "cost": 1.0
+  },
+  {
+   "prog": [
+    "outline",
+    "dedupe"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "74dd1130": [
+  {
+   "prog": [
+    "transpose"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "833dafe3": [
+  {
+   "prog": [
+    "rot180",
+    "mirror_4"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "8be77c9e": [
+  {
+   "prog": [
+    "mirror_v"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "90c28cc7": [
+  {
+   "prog": [
+    "crop_nonbg",
+    "dedupe"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "9172f3a0": [
+  {
+   "prog": [
+    "up3"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "9a4bb226": [
+  {
+   "prog": [
+    "crop_most_colorful"
+   ],
+   "cost": 1.0
+  },
+  {
+   "prog": [
+    "crop_most_colorful",
+    "keep_largest_obj"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "9dfd6313": [
+  {
+   "prog": [
+    "transpose"
+   ],
+   "cost": 1.0
+  },
+  {
+   "prog": [
+    "transpose",
+    "crop_smallest"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "a416b8f3": [
+  {
+   "prog": [
+    "tile2x2",
+    "top_half"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "a740d043": [
+  {
+   "prog": [
+    "crop_nonbg"
+   ],
+   "cost": 1.25
+  }
+ ],
+ "b1948b0a": [
+  {
+   "prog": [],
+   "cost": 0.25
+  },
+  {
+   "prog": [
+    "crop_largest"
+   ],
+   "cost": 1.25
+  }
+ ],
+ "be94b721": [
+  {
+   "prog": [
+    "crop_largest"
+   ],
+   "cost": 1.0
+  },
+  {
+   "prog": [
+    "mirror_v",
+    "crop_largest"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "c59eb873": [
+  {
+   "prog": [
+    "up2"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "c8f0f002": [
+  {
+   "prog": [],
+   "cost": 0.25
+  },
+  {
+   "prog": [
+    "remove_noise"
+   ],
+   "cost": 1.25
+  }
+ ],
+ "c9e6f938": [
+  {
+   "prog": [
+    "mirror_h"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "ce4f8723": [
+  {
+   "prog": [
+    "overlay_v"
+   ],
+   "cost": 1.5
+  },
+  {
+   "prog": [
+    "dedupe",
+    "overlay_v"
+   ],
+   "cost": 2.75
+  }
+ ],
+ "ce8d95cc": [
+  {
+   "prog": [
+    "dedupe"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "d037b0a7": [
+  {
+   "prog": [
+    "extend_v"
+   ],
+   "cost": 1.0
+  },
+  {
+   "prog": [
+    "keep_largest_obj",
+    "extend_v"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "d19f7514": [
+  {
+   "prog": [
+    "overlay_v"
+   ],
+   "cost": 1.5
+  },
+  {
+   "prog": [
+    "remove_noise",
+    "overlay_v"
+   ],
+   "cost": 2.5
+  }
+ ],
+ "d511f180": [
+  {
+   "prog": [],
+   "cost": 0.5
+  }
+ ],
+ "d9fac9be": [
+  {
+   "prog": [
+    "crop_smallest_bycolor"
+   ],
+   "cost": 1.25
+  },
+  {
+   "prog": [
+    "rare_color"
+   ],
+   "cost": 1.25
+  }
+ ],
+ "dae9d2b5": [
+  {
+   "prog": [
+    "overlay_h"
+   ],
+   "cost": 1.5
+  }
+ ],
+ "e133d23d": [
+  {
+   "prog": [
+    "overlay_h"
+   ],
+   "cost": 1.5
+  },
+  {
+   "prog": [
+    "overlay_h",
+    "keep_largest_obj"
+   ],
+   "cost": 2.5
+  }
+ ],
+ "e1baa8a4": [
+  {
+   "prog": [
+    "dedupe"
+   ],
+   "cost": 1.0
+  },
+  {
+   "prog": [
+    "dedupe",
+    "outline"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "e345f17b": [
+  {
+   "prog": [
+    "overlay_h"
+   ],
+   "cost": 1.75
+  }
+ ],
+ "e3497940": [
+  {
+   "prog": [
+    "symmetrize_lr",
+    "left_half"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "e98196ab": [
+  {
+   "prog": [
+    "overlay_v"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "eb5a1d5d": [
+  {
+   "prog": [
+    "dedupe"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "ed36ccf7": [
+  {
+   "prog": [
+    "rot90"
+   ],
+   "cost": 1.0
+  }
+ ],
+ "f25fbde4": [
+  {
+   "prog": [
+    "crop_nonbg",
+    "up2"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "f25ffba3": [
+  {
+   "prog": [
+    "symmetrize_ud"
+   ],
+   "cost": 1.0
+  },
+  {
+   "prog": [
+    "symmetrize_ud",
+    "outline"
+   ],
+   "cost": 2.0
+  }
+ ],
+ "f2829549": [
+  {
+   "prog": [
+    "overlay_h"
+   ],
+   "cost": 1.75
+  },
+  {
+   "prog": [
+    "dedupe",
+    "overlay_h"
+   ],
+   "cost": 2.75
+  }
+ ]
+}
