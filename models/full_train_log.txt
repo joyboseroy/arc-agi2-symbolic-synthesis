@@ -1,0 +1,7 @@
+saved (50000, 431) (50000, 202) label density 1.44442
+val tasks 5000 primitives+recolor slot 202
+all-true-primitives-in-top-6: model=0.636 random=0.017
+all-true-primitives-in-top-10: model=0.692 random=0.029
+all-true-primitives-in-top-16: model=0.752 random=0.050
+all-true-primitives-in-top-24: model=0.809 random=0.075
+saved models/proposer_full.pkl
