@@ -1,0 +1,23 @@
+{
+ "summary": {
+  "config": "all_d2",
+  "tasks": 10,
+  "task_score_mean": 0.1,
+  "tasks_fully_solved": 1,
+  "tasks_any_solved": 1,
+  "tasks_with_fitting_program": 1,
+  "mean_seconds_per_task": 3.81
+ },
+ "per_task": {
+  "00576224": 0.0,
+  "007bbfb7": 0.0,
+  "009d5c81": 0.0,
+  "00d62c1b": 1.0,
+  "00dbd492": 0.0,
+  "017c7c7b": 0.0,
+  "025d127b": 0.0,
+  "03560426": 0.0,
+  "045e512c": 0.0,
+  "0520fde7": 0.0
+ }
+}

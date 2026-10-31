@@ -1,0 +1,2 @@
+done diag/eval.json 120
+done diag/train300.json 300

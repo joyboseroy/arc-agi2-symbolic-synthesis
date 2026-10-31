@@ -1,0 +1,11 @@
+{"config": "all_d2", "tasks": 1000, "task_score_mean": 0.067, "tasks_fully_solved": 67, "tasks_any_solved": 67, "tasks_with_fitting_program": 75, "mean_seconds_per_task": 0.28}
+{"config": "all_d2", "tasks": 120, "task_score_mean": 0.0, "tasks_fully_solved": 0, "tasks_any_solved": 0, "tasks_with_fitting_program": 0, "mean_seconds_per_task": 0.3}
+{"config": "guided16_d2", "tasks": 1000, "task_score_mean": 0.056, "tasks_fully_solved": 56, "tasks_any_solved": 56, "tasks_with_fitting_program": 63, "mean_seconds_per_task": 0.06}
+{"config": "guided16_d2", "tasks": 120, "task_score_mean": 0.0, "tasks_fully_solved": 0, "tasks_any_solved": 0, "tasks_with_fitting_program": 0, "mean_seconds_per_task": 0.06}
+{"config": "guided16_d3", "tasks": 1000, "task_score_mean": 0.06, "tasks_fully_solved": 60, "tasks_any_solved": 60, "tasks_with_fitting_program": 68, "mean_seconds_per_task": 0.7}
+{"config": "guided16_d3", "tasks": 120, "task_score_mean": 0.0, "tasks_fully_solved": 0, "tasks_any_solved": 0, "tasks_with_fitting_program": 0, "mean_seconds_per_task": 0.78}
+{"config": "random16_d3", "tasks": 1000, "task_score_mean": 0.0395, "tasks_fully_solved": 39, "tasks_any_solved": 40, "tasks_with_fitting_program": 47, "mean_seconds_per_task": 0.48}
+{"config": "random16_d3", "tasks": 120, "task_score_mean": 0.0, "tasks_fully_solved": 0, "tasks_any_solved": 0, "tasks_with_fitting_program": 0, "mean_seconds_per_task": 0.49}
+{"config": "guided24_d3", "tasks": 1000, "task_score_mean": 0.066, "tasks_fully_solved": 66, "tasks_any_solved": 66, "tasks_with_fitting_program": 74, "mean_seconds_per_task": 1.94}
+{"config": "guided24_d3", "tasks": 120, "task_score_mean": 0.0, "tasks_fully_solved": 0, "tasks_any_solved": 0, "tasks_with_fitting_program": 0, "mean_seconds_per_task": 2.09}
+DONE
