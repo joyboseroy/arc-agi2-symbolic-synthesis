@@ -1,0 +1,29 @@
+val tasks 4000 primitives+recolor slot 136
+all-true-primitives-in-top-6: model=0.614 random=0.027
+all-true-primitives-in-top-10: model=0.676 random=0.047
+all-true-primitives-in-top-16: model=0.747 random=0.073
+all-true-primitives-in-top-24: model=0.808 random=0.107
+saved models/proposer_big_disjoint_s1.pkl
+{"config": "guided24_d3", "seed": 0, "model": "models/proposer_big_disjoint_s1.pkl", "dsl": "big", "tasks": 300, "solved": 26, "solved_first_guess": 25, "tasks_with_fit": 29, "mean_seconds": 4.981, "mean_nodes": 43090.1, "expected_solved_random_select_2": 20}
+val tasks 4000 primitives+recolor slot 136
+all-true-primitives-in-top-6: model=0.621 random=0.027
+all-true-primitives-in-top-10: model=0.685 random=0.047
+all-true-primitives-in-top-16: model=0.747 random=0.073
+all-true-primitives-in-top-24: model=0.811 random=0.107
+saved models/proposer_big_disjoint_s2.pkl
+{"config": "guided24_d3", "seed": 0, "model": "models/proposer_big_disjoint_s2.pkl", "dsl": "big", "tasks": 300, "solved": 26, "solved_first_guess": 26, "tasks_with_fit": 28, "mean_seconds": 4.469, "mean_nodes": 42264.4, "expected_solved_random_select_2": 22}
+val tasks 5000 primitives+recolor slot 202
+all-true-primitives-in-top-6: model=0.657 random=0.019
+all-true-primitives-in-top-10: model=0.709 random=0.031
+all-true-primitives-in-top-16: model=0.762 random=0.051
+all-true-primitives-in-top-24: model=0.812 random=0.077
+saved models/proposer_full_disjoint_s1.pkl
+{"config": "guided24_d3", "seed": 0, "model": "models/proposer_full_disjoint_s1.pkl", "dsl": "full", "tasks": 300, "solved": 30, "solved_first_guess": 29, "tasks_with_fit": 33, "mean_seconds": 4.652, "mean_nodes": 39961.8, "expected_solved_random_select_2": 24}
+val tasks 5000 primitives+recolor slot 202
+all-true-primitives-in-top-6: model=0.656 random=0.019
+all-true-primitives-in-top-10: model=0.717 random=0.031
+all-true-primitives-in-top-16: model=0.768 random=0.051
+all-true-primitives-in-top-24: model=0.817 random=0.077
+saved models/proposer_full_disjoint_s2.pkl
+{"config": "guided24_d3", "seed": 0, "model": "models/proposer_full_disjoint_s2.pkl", "dsl": "full", "tasks": 300, "solved": 28, "solved_first_guess": 27, "tasks_with_fit": 31, "mean_seconds": 4.433, "mean_nodes": 39337.4, "expected_solved_random_select_2": 23}
+SEEDS_DONE

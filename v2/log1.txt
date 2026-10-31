@@ -1,0 +1,17 @@
+saved (40000, 299) (40000, 136) label density 1.5664
+/usr/local/lib/python3.13/dist-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (60) reached and the optimization hasn't converged yet.
+  warnings.warn(
+val tasks 4000 primitives+recolor slot 136
+all-true-primitives-in-top-6: model=0.620 random=0.027
+all-true-primitives-in-top-10: model=0.676 random=0.047
+all-true-primitives-in-top-16: model=0.741 random=0.073
+all-true-primitives-in-top-24: model=0.799 random=0.107
+saved models/proposer_big_disjoint.pkl
+saved (50000, 431) (50000, 202) label density 1.44468
+val tasks 5000 primitives+recolor slot 202
+all-true-primitives-in-top-6: model=0.651 random=0.019
+all-true-primitives-in-top-10: model=0.707 random=0.031
+all-true-primitives-in-top-16: model=0.758 random=0.051
+all-true-primitives-in-top-24: model=0.810 random=0.077
+saved models/proposer_full_disjoint.pkl
+STAGE1_DONE

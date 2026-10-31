@@ -1,0 +1,3 @@
+done v2/diag_train300.json 300
+done v2/diag_eval.json 120
+{"config": "all_d3", "seed": 0, "model": "none", "dsl": "small", "tasks": 12, "solved": 0, "solved_first_guess": 0, "tasks_with_fit": 0, "mean_seconds": 8.563, "mean_nodes": 175721.3, "expected_solved_random_select_2": 0}
